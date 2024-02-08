@@ -1,0 +1,24 @@
+.container{
+    margin: auto;
+    width: 400px;
+    height: 700px;
+    border-style:  solid;
+    border-color:black ;
+    /* text-align: center; */
+}
+.img{
+    /* background-color: black; */
+    margin-left: 2px;;
+    width: 390px;
+    opacity: 1  ;
+    
+}
+.details{
+   margin: 10px 20px 20px 20px;
+
+}
+.List{
+     text-align: left;
+     margin-left: 20px;
+     
+}
