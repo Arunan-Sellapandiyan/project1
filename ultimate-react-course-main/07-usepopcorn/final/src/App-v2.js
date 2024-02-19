@@ -72,7 +72,7 @@ export default function App() {
 
   useEffect(
     function () {
-      console.log("D");
+      console.log("D"); 
     },
     [query]
   );

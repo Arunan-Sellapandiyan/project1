@@ -78,7 +78,7 @@ export default function App() {
 function NavBar({ children }) {
   return (
     <nav className="nav-bar">
-      <Logo />
+      <Logo/>
       {children}
     </nav>
   );

@@ -6,7 +6,6 @@ const containerStyle = {
   alignItems: "center",
   gap: "16px",
 };
-
 const starContainerStyle = {
   display: "flex",
 };

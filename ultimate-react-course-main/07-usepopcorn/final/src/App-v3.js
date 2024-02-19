@@ -3,7 +3,6 @@ import StarRating from "./StarRating";
 
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
-
 const KEY = "f84fc31d";
 
 export default function App() {
